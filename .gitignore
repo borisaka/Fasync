@@ -21,3 +21,4 @@ tmp
 *.a
 mkmf.log
 /config/credentials.yml
+.idea
